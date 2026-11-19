@@ -1,2 +1,3 @@
 # JavaRepository-ITE102
-This is my Java code repo for 2nd Term 
+
+- This is a quick intro for my Java code repo for 2nd Term programming.
